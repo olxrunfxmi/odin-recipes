@@ -1,4 +1,4 @@
-# Welcome to  odin-recipes
+# Welcome to Odin Recipes
 
 ## What is this about
 This is a basic recipe website to showcase HTML abilities and Git skills.
